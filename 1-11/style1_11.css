@@ -20,4 +20,5 @@ p {
 /* 問5：id指定 */
 #main {
     color: orange;
+    font-weight: bold;
 }
